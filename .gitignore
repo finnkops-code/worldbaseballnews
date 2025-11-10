@@ -1,0 +1,5 @@
+# Bestanden die niet in Git hoeven
+node_modules/
+out/*.html
+playwright-report/
+test-results/

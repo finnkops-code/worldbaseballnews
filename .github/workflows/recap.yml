@@ -1,8 +1,8 @@
-name: Daily Recap
+name: "Daily Recap"
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 NL-tijd (winter)
+    - cron: "0 6 * * *" # 06:00 UTC = 07:00 NL (winter)
   workflow_dispatch:
 
 permissions:

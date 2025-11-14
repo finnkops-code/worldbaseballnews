@@ -1,2 +1,0 @@
-# worldbaseballnews
-Daily baseball scores
